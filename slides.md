@@ -1,5 +1,6 @@
 ---
 theme: default
+favicon: Maxfav.png
 title: Using Sources Correctly
 info: |
   ## Using Sources Correctly
